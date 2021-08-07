@@ -4,18 +4,20 @@ channels:
   - default
 dependencies:
   - python=3.7
-  - numpy
-  - cython
-  - matplotlib
-  - seaborn
-  - pandas
-  - geopandas
-  - rasterio
-  - hvplot
   - bokeh
-  - proj
   - cartopy
-  - geoviews
-  - scikit-learn
+  - cython
+  - geopandas
   - geopy
+  - geoviews
+  - hvplot
+  - jupyter
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
   - panel
+  - proj
+  - rasterio
+  - scikit-learn
+  - seaborn
