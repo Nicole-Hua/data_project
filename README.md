@@ -1,5 +1,4 @@
 # where are the whales? 🗾🐳🧭🐋🗺️ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nicole-Hua/data_project/HEAD)
-![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nicole-Hua/data_project/36621bd8aeb97f1a3257898afdf693f3a1361ca5)
 
 CoDe1161 Data Project Repo
 
